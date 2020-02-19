@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-19T12:09:49.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dXwpHVoqKQiqiEs1KBkz" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-19T12:11:34.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="p8SnMKXAR50gEwUDaiJm" version="12.7.2" type="github">
   <diagram id="u7UtX-OBa40IpuXoaNEF" name="หน้า-1">
-    <mxGraphModel dx="1055" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Kanit^https://fonts.googleapis.com/css?family=Kanit">
+    <mxGraphModel dx="815" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Kanit^https://fonts.googleapis.com/css?family=Kanit">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="h8JRblbBfnmHyVmlJrzL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h8JRblbBfnmHyVmlJrzL-2" target="h8JRblbBfnmHyVmlJrzL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8JRblbBfnmHyVmlJrzL-2" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;ประกาศตัวแปร w, h, area&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h8JRblbBfnmHyVmlJrzL-2" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;ประกาศตัวแปร &lt;font color=&quot;#003366&quot;&gt;w, h,&lt;/font&gt; area&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="110" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8JRblbBfnmHyVmlJrzL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h8JRblbBfnmHyVmlJrzL-4" target="h8JRblbBfnmHyVmlJrzL-6">
@@ -25,16 +25,16 @@
         <mxCell id="h8JRblbBfnmHyVmlJrzL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h8JRblbBfnmHyVmlJrzL-6" target="h8JRblbBfnmHyVmlJrzL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8JRblbBfnmHyVmlJrzL-6" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;area = 0.5 x w x h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h8JRblbBfnmHyVmlJrzL-6" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;area&lt;/font&gt; = 0.5 x &lt;font color=&quot;#003366&quot;&gt;w&lt;/font&gt; x &lt;font color=&quot;#003366&quot;&gt;h&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="250" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8JRblbBfnmHyVmlJrzL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h8JRblbBfnmHyVmlJrzL-8" target="h8JRblbBfnmHyVmlJrzL-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8JRblbBfnmHyVmlJrzL-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;แสดง area&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontFamily=Kanit;FType=g;" vertex="1" parent="1">
+        <mxCell id="h8JRblbBfnmHyVmlJrzL-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;แสดง &lt;font color=&quot;#cc0000&quot;&gt;area&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontFamily=Kanit;FType=g;" vertex="1" parent="1">
           <mxGeometry x="305" y="320" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h8JRblbBfnmHyVmlJrzL-11" value="&lt;font face=&quot;Kanit&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;จบ&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="h8JRblbBfnmHyVmlJrzL-11" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;จบ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
