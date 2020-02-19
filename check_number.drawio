@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-19T12:32:15.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ltA5Eq7De8gL0jvMZtD_" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-19T12:32:24.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="O7ygBxAAfrTIfpAvzqfu" version="12.7.2" type="github">
   <diagram id="u7UtX-OBa40IpuXoaNEF" name="หน้า-1">
     <mxGraphModel dx="1208" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Kanit^https://fonts.googleapis.com/css?family=Kanit">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="h8JRblbBfnmHyVmlJrzL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8JRblbBfnmHyVmlJrzL-1" target="h8JRblbBfnmHyVmlJrzL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8JRblbBfnmHyVmlJrzL-1" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="h8JRblbBfnmHyVmlJrzL-1" value="&lt;font face=&quot;Kanit&quot; style=&quot;font-size: 14px&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="340" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8JRblbBfnmHyVmlJrzL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h8JRblbBfnmHyVmlJrzL-2" target="h8JRblbBfnmHyVmlJrzL-4" edge="1">
